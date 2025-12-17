@@ -1,0 +1,33 @@
+1- pay me : ransomware
+2- htmlentities : false
+3- this is sparta : {J4V4_Scr1Pt_1S_Aw3s0me}
+4-hackers gathering : defcon
+5-admin has the power: hiadminyouhavethepower
+6-Hash3rror : 83874343435092cb681c0d558a84bfeb389c32ed
+7- who am i? : FLag{B@D_4uTh1Nt1C4tI0n}
+8- modify code : obfuscation
+9- iam legend : FLAG{J4V4_Scr1Pt_1S_S0_D4MN_FUN}
+10-searching for cookie : coolcookie112
+11-bean : FLAG{Nginx_nOt_aLWays_sEcUre_bY_The_waY}
+12- hashable : 18ab51f960bd149bcb2497b9998c752c
+13- maximum courage : be607453caada6a05d00c0ea0057f733
+14- the restricted sessions : sessionareawesomebutifitsecure
+15- newsettler : hgdr64.backup.tar.gz
+16- Easy access: flag{!njection_3v3ry_wh3r3}
+17- Crime Scene : Forensics
+18-Keep it simple : {S1mpl3sty_i$_th_@nswer}
+19- Greeks : Steganography
+20- I love music : you_are_victorious!
+21- capture : wireshark
+22- bflag : analyze_packet_for_fun
+23- cypher anxiety : 3beef06be834f3151309037dde4714ec
+24 - monaliza : Flag{P@!nting_i5_4wes0m3}
+
+skip reverse and assembly
+
+25- security model : CIA
+26-Louder : FLAGISAWEIRDSOUNDTHATMEANSSOMETHING
+27 - Hide Data : 2j68yfhqlz
+28- Guess the passsword : jrahyn+
+
+
