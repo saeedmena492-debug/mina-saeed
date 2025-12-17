@@ -1,0 +1,109 @@
+-----------------------------------------------
+OSForensics Signature Comparison Export
+OSF Version: 8.0 Build: 1008
+-----------------------------------------------
+
+
+-----------------------------------------------
+Signature Information
+-----------------------------------------------
+
+ --- Old Signature ---
+   Signature File:            C:\Users\dell\Desktop\sig1.OSFsig
+   Creation Date:             Thursday, December 19, 2024, 10:12:58
+   Total Items:               1
+   Total Size:                0 Bytes
+   Checksums Calculated:      None
+   Ignore Reparse Points:     Yes
+   Ignore Temp Folders:       Yes
+   Parse Emails:              No
+   Include Files In Zips:     No
+   Include Deleted Files:     No
+   Track Hard Links:          No
+   Scan Directories:
+     Include - C:\Users\dell\Desktop\minaa1
+
+
+-----------------------------------------------
+New Items
+-----------------------------------------------
+
+Name, Create Date, Modify Date, Size, Attributes
+   None
+
+ --- Summary ---
+   Total New Items:      0
+   Total New Size:       0 Bytes
+
+
+-----------------------------------------------
+Deleted Items
+-----------------------------------------------
+
+Name, Create Date, Modify Date, Size, Attributes
+C:\Users\dell\Desktop\minaa1\New Text Document.txt,"12/19/2024, 10:12:29","12/19/2024, 10:12:29",0 Bytes,A----------
+
+ --- Summary ---
+   Total Deleted Items:  1
+   Total Deleted Size:   0 Bytes
+
+
+-----------------------------------------------
+Items with different create date
+-----------------------------------------------
+
+Old/New, Name, Create Date, Modify Date, Size, Attributes
+   None
+
+
+-----------------------------------------------
+Items with different modify date
+-----------------------------------------------
+
+Old/New, Name, Create Date, Modify Date, Size, Attributes
+   None
+
+
+-----------------------------------------------
+Items with different size
+-----------------------------------------------
+
+Old/New, Name, Create Date, Modify Date, Size, Attributes
+   None
+
+
+-----------------------------------------------
+Items with different attributes
+-----------------------------------------------
+
+Old/New, Name, Create Date, Modify Date, Size, Attributes
+   None
+
+
+-----------------------------------------------
+Summary of all Modified Items
+-----------------------------------------------
+   Total Modified Items: 0
+   Total Modified Size:  0 Bytes
+
+
+-----------------------------------------------
+Identical Items
+-----------------------------------------------
+
+Old/New, Name, Create Date, Modify Date, Size, Attributes
+   None
+
+
+-----------------------------------------------
+Summary of all Identical Items
+-----------------------------------------------
+   Total Identical Items: 0
+   Total Identical Size: 0 Bytes
+
+
+-----------------------------------------------
+Summary Total
+-----------------------------------------------
+   Total New, Deleted or Modified Items: 1
+   Total Change in Item Size: 0 Bytes
